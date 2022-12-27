@@ -1,0 +1,5 @@
+- Hi, I’m NGUINABE JOSUE
+- I’m interested in Falsified Documents Detection using Graph Theory and Time Series Data Analysis and Forecasting.
+- I’m currently learning Data Science
+- I would love to collaborate on Data Science Projecs specially on Times Series Data or any project related to Falsified Document Detection using machine learning.
+- You can contact me  email on josue.nguinabe@aims-cameroon.org or via WhatsApp on +237656742077.
