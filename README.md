@@ -1,12 +1,5 @@
 # Hi, I'm Josue Nguinabe 👋
 
-🌍 **Location**: Ngaoundere, Cameroon  
-📧 **Email**: [jnguinabe@aimsammi.org](mailto:jnguinabe@aimsammi.org)  
-💼 **LinkedIn**: [linkedin.com/in/josue-nguinabe](https://linkedin.com/in/josue-nguinabe/)  
-🔗 **GitHub**: [Nguinabe3](https://github.com/Nguinabe3)  
-
----
-
 ## 🚀 About Me
 
 I am a passionate **AI Researcher** and **Machine Learning Engineer** with a strong background in computer science, mathematics, and business management. I specialize in leveraging AI to solve real-world problems in areas like time series forecasting, document integrity, and natural language processing. With a dedication to continuous learning and innovation, I aim to push the boundaries of AI applications to create meaningful impact.
@@ -35,7 +28,7 @@ I am a passionate **AI Researcher** and **Machine Learning Engineer** with a str
 ## 💼 Work & Research Experience
 
 ### AI Fellow, DAVU.AI (2024–Present)
-- Building and deploying AI solutions for Centric.
+- Building and deploying AI solutions.
 - Supporting the product team with data science needs and enhancing AI-driven business value.
 
 ### Research Intern, AIMS-Cameroon (2022)
